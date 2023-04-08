@@ -3,3 +3,11 @@
 35	927	7026653592870153	libs/data_structures/CMakeFiles/data_structures.dir/vector/vector.c.obj	dc9b6393113e529
 927	1234	7026653595834567	libs/data_structures/libdata_structures.a	af36bbd9ef762809
 1234	2027	7026653603861335	untitled8.exe	70b415c27d3b6da4
+71	591	7026669898696225	CMakeFiles/untitled8.dir/main.c.obj	c1013230e614d13
+108	600	7026669898777857	libs/data_structures/CMakeFiles/data_structures.dir/vector/vector.c.obj	dc9b6393113e529
+600	795	7026669900804893	libs/data_structures/libdata_structures.a	af36bbd9ef762809
+796	1026	7026669903055118	untitled8.exe	70b415c27d3b6da4
+24	403	7026670758993732	CMakeFiles/untitled8.dir/main.c.obj	c1013230e614d13
+56	418	7026670759155221	libs/data_structures/CMakeFiles/data_structures.dir/vector/vector.c.obj	dc9b6393113e529
+418	643	7026670761401510	libs/data_structures/libdata_structures.a	af36bbd9ef762809
+643	933	7026670764293510	untitled8.exe	70b415c27d3b6da4
