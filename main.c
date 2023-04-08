@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdint.h>
 #include "libs/data_structures/vector/vector.h"
+#include "libs/data_structures/vector/voidVector.h"
 #include <assert.h>
 
 void test_pushBack_emptyVector() {
@@ -79,7 +80,11 @@ void test(){
     test_front_oneElementInVector();
 }
 
+
 int main() {
+    vectorVoid vI = (vectorVoid) {NULL, 0, 0, sizeof(int)};
+    vectorVoid vF = (vectorVoid) {NULL, 0, 0, sizeof(float)};
+
     test();
     return 0;
 }
