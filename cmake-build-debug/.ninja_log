@@ -1,0 +1,5 @@
+# ninja log v5
+2	924	7026653592870153	CMakeFiles/untitled8.dir/main.c.obj	c1013230e614d13
+35	927	7026653592870153	libs/data_structures/CMakeFiles/data_structures.dir/vector/vector.c.obj	dc9b6393113e529
+927	1234	7026653595834567	libs/data_structures/libdata_structures.a	af36bbd9ef762809
+1234	2027	7026653603861335	untitled8.exe	70b415c27d3b6da4
